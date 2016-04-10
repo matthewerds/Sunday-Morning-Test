@@ -4,7 +4,8 @@
 <head><title>This is a test</title></head>
 
 <body>
-<h1>Here is my test text>
+<h1>Here is my test text</h1>
+<p>Adding a p tag with some text</p>
 
 </body>
 
